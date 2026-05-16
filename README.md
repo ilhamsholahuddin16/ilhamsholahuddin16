@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║   ILHAM SHOLAHUDDIN  ·  IT Student & Tech Builder   ║
+║   ILHAM SHOLAHUDDIN  ·  IT Student & Tech Explorer   ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
