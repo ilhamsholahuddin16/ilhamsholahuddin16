@@ -87,8 +87,7 @@ Mahasiswa Teknologi Informasi dengan minat besar di pengembangan sistem, infrast
 ## `stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhamsholahuddin16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamsholahuddin16&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamsholahuddin16&theme=github_dark" alt="GitHub Streak Stats" />
 </div>
 
 ---
