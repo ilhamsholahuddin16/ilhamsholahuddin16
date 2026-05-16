@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-### ` Cloud · Web · ML · Network · DevOps `
+### ` Cloud · Web · ML · Network`
 
 [![GitHub](https://img.shields.io/badge/GitHub-ilhamsholahuddin16-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/ilhamsholahuddin16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilham%20Sholahuddin-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilham-sholahuddin-a15a49163/)
