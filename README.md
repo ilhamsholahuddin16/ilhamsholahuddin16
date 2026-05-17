@@ -35,7 +35,7 @@ Mahasiswa Teknologi Informasi dengan minat besar di pengembangan sistem, infrast
 ```
 🎯  Cloud Computing & Infrastructure
 🌐  Web Development (Full-Stack)
-🤖  Artificial Intelligence & Machine Learning
+🤖  Machine Learning
 🔧  DevOps & Containerization
 🛡️  Cyber Security
 🖧  Network Administration
