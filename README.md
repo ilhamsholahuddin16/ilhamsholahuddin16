@@ -33,12 +33,13 @@ Mahasiswa Teknologi Informasi dengan minat besar di pengembangan sistem, infrast
 ## `career.goals`
 
 ```
+🖧  Network Administration
 🎯  Cloud Computing & Infrastructure
 🌐  Web Development (Full-Stack)
 🤖  Machine Learning
 🔧  DevOps & Containerization
 🛡️  Cyber Security
-🖧  Network Administration
+
 ```
 
 > Tujuan: menjadi profesional IT yang mampu merancang sistem yang **aman**, **scalable**, dan **efisien**.
