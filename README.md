@@ -38,7 +38,6 @@ Mahasiswa Teknologi Informasi dengan minat besar di pengembangan sistem, infrast
 🌐  Web Development (Full-Stack)
 🤖  Machine Learning
 🔧  DevOps & Containerization
-🛡️  Cyber Security
 
 ```
 
