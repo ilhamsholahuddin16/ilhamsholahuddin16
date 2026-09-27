@@ -33,11 +33,9 @@ Mahasiswa Teknologi Informasi dengan minat besar di pengembangan sistem, infrast
 ## `career.goals`
 
 ```
-🖧  Network Administration
-🎯  Cloud Computing & Infrastructure
-🌐  Web Development (Full-Stack)
-🤖  Machine Learning
-🔧  DevOps & Containerization
+🖧  Network & IT Infrastructure
+🌐  Web and Mobile Development
+🤖  Machine Learning and AI Ethusiast
 
 ```
 
