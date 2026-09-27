@@ -21,7 +21,7 @@
 ```yaml
 name        : Ilham Sholahuddin
 role        : Information Technology Student
-focus       : Cloud · Web · ML · Network · DevOps
+focus       : ML/AI - Web and Mobile Dev - Network
 status      : Building, exploring, and improving every day
 motto       : "Keep learning, keep building, and keep improving."
 ```
